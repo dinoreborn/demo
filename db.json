@@ -128,8 +128,107 @@
 }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+   {
+  "id": 1,
+  "carmake": "Nissan",
+  "carlicenseplate": "WAUGL68E15A892704"
+}, {
+  "id": 2,
+  "carmake": "Kia",
+  "carlicenseplate": "1D7RV1CT3AS837003"
+}, {
+  "id": 3,
+  "carmake": "BMW",
+  "carlicenseplate": "WAUSF98K39N747123"
+}, {
+  "id": 4,
+  "carmake": "Bentley",
+  "carlicenseplate": "KMHHT6KJ0FU968745"
+}, {
+  "id": 5,
+  "carmake": "Mercedes-Benz",
+  "carlicenseplate": "WBAFR7C56CC150856"
+}, {
+  "id": 6,
+  "carmake": "Dodge",
+  "carlicenseplate": "KL4CJFSB4FB552653"
+}, {
+  "id": 7,
+  "carmake": "Chevrolet",
+  "carlicenseplate": "WAUVT58EX4A083508"
+}, {
+  "id": 8,
+  "carmake": "Suzuki",
+  "carlicenseplate": "1GYS3HEF1DR131817"
+}, {
+  "id": 9,
+  "carmake": "Dodge",
+  "carlicenseplate": "WA1CFAFP1CA613355"
+}, {
+  "id": 10,
+  "carmake": "Chevrolet",
+  "carlicenseplate": "SCFAD01A27G062793"
+}, {
+  "id": 11,
+  "carmake": "Toyota",
+  "carlicenseplate": "1N4AL2AP6CN415940"
+}, {
+  "id": 12,
+  "carmake": "BMW",
+  "carlicenseplate": "SCFHDDAJ9CA708737"
+}, {
+  "id": 13,
+  "carmake": "Chevrolet",
+  "carlicenseplate": "WBA3B9C57DJ229033"
+}, {
+  "id": 14,
+  "carmake": "Mercury",
+  "carlicenseplate": "1VWAS7A36FC723663"
+}, {
+  "id": 15,
+  "carmake": "GMC",
+  "carlicenseplate": "ZHWGU6BZ9CL621541"
+}, {
+  "id": 16,
+  "carmake": "Acura",
+  "carlicenseplate": "5FRYD3H25GB317670"
+}, {
+  "id": 17,
+  "carmake": "Nissan",
+  "carlicenseplate": "3N1AB7AP0FY157502"
+}, {
+  "id": 18,
+  "carmake": "Mazda",
+  "carlicenseplate": "WAUTFAFH2DN565497"
+}, {
+  "id": 19,
+  "carmake": "GMC",
+  "carlicenseplate": "1G6DM57N430274961"
+}, {
+  "id": 20,
+  "carmake": "Jeep",
+  "carlicenseplate": "WAUVT54B43N654400"
+}, {
+  "id": 21,
+  "carmake": "Toyota",
+  "carlicenseplate": "1FADP5CU4EL432594"
+}, {
+  "id": 22,
+  "carmake": "Saab",
+  "carlicenseplate": "3D73M3CL4BG062157"
+}, {
+  "id": 23,
+  "carmake": "Volvo",
+  "carlicenseplate": "3VWF17AT0FM643833"
+}, {
+  "id": 24,
+  "carmake": "Nissan",
+  "carlicenseplate": "JTDZN3EU5EJ892849"
+}, {
+  "id": 25,
+  "carmake": "Oldsmobile",
+  "carlicenseplate": "YV4952CY0E1198891"
+}
   ],
   "profile": {
     "name": "typicode"
