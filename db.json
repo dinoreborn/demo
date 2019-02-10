@@ -1,6 +1,6 @@
 {
   "employees": [
-   [{
+   {
   "id": 1,
   "first_name": "Glori",
   "last_name": "Dunhill",
@@ -125,7 +125,7 @@
   "first_name": "Ephraim",
   "last_name": "Bigby",
   "email": "ebigbyo@admin.ch"
-}]
+}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
